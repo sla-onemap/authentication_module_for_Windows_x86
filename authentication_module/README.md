@@ -32,7 +32,7 @@ This is an example of using an unauthorized credentials,
 
 ## Motivation
 
-We want to ease the work for your development!! If you faced with any issue(s), feel free open up new issue(s) ;>
+We want to ease the work for your development!! If you faced with any issue(s), feel free to open up new issue(s) at the top ;>
 
 ## API Reference
 
